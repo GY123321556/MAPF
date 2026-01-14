@@ -1,0 +1,23 @@
+2026-01-14 15:55:16 - MAPF - INFO - Starting Multi-Agent Path Finding System
+2026-01-14 15:55:16 - MAPF - INFO - Configuration loaded: 8 agents
+2026-01-14 15:55:16 - MAPF - INFO - Loading map from Berlin_1_256.map
+2026-01-14 15:55:16 - MAPF - INFO - Map loaded: 256 x 256
+2026-01-14 15:55:16 - MAPF - INFO - Generating 8 random agents...
+2026-01-14 15:55:16 - MAPF - INFO -   Agent0(start=(84, 122), goal=(38, 109))
+2026-01-14 15:55:16 - MAPF - INFO -   Agent1(start=(212, 142), goal=(73, 95))
+2026-01-14 15:55:16 - MAPF - INFO -   Agent2(start=(76, 165), goal=(214, 94))
+2026-01-14 15:55:16 - MAPF - INFO -   Agent3(start=(32, 103), goal=(56, 101))
+2026-01-14 15:55:16 - MAPF - INFO -   Agent4(start=(54, 248), goal=(249, 162))
+2026-01-14 15:55:16 - MAPF - INFO -   Agent5(start=(246, 212), goal=(21, 166))
+2026-01-14 15:55:16 - MAPF - INFO -   Agent6(start=(86, 16), goal=(132, 10))
+2026-01-14 15:55:16 - MAPF - INFO -   Agent7(start=(221, 215), goal=(206, 104))
+2026-01-14 15:55:16 - MAPF - INFO - Starting CBS algorithm...
+2026-01-14 15:55:41 - MAPF - INFO - CBS completed in 25.10 seconds
+2026-01-14 15:55:41 - MAPF - INFO - 
+=== Performance Metrics ===
+2026-01-14 15:55:41 - MAPF - INFO - Makespan: 279
+2026-01-14 15:55:41 - MAPF - INFO - Sum of Costs: 995
+2026-01-14 15:55:41 - MAPF - INFO - Average Cost: 142.14
+2026-01-14 15:55:41 - MAPF - INFO - Success Rate: 87.50%
+2026-01-14 15:55:41 - MAPF - INFO - No collisions found!
+2026-01-14 15:55:41 - MAPF - INFO - Visualizing results...

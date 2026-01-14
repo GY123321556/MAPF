@@ -1,0 +1,32 @@
+2026-01-12 19:17:55 - MAPF - INFO - Starting Multi-Agent Path Finding System with Dynamic Visualization
+2026-01-12 19:17:55 - MAPF - INFO - Configuration loaded: 8 agents
+2026-01-12 19:17:55 - MAPF - INFO - Visualization mode: animation
+2026-01-12 19:17:55 - MAPF - INFO - Loading map from Berlin_1_256.map
+2026-01-12 19:17:55 - MAPF - INFO - Map loaded: 256 x 256
+2026-01-12 19:17:55 - MAPF - INFO - Generating 8 random agents...
+2026-01-12 19:17:55 - MAPF - INFO -   Agent0(start=(150, 72), goal=(19, 250))
+2026-01-12 19:17:55 - MAPF - INFO -   Agent1(start=(16, 245), goal=(19, 82))
+2026-01-12 19:17:55 - MAPF - INFO -   Agent2(start=(252, 135), goal=(10, 63))
+2026-01-12 19:17:55 - MAPF - INFO -   Agent3(start=(154, 61), goal=(40, 140))
+2026-01-12 19:17:55 - MAPF - INFO -   Agent4(start=(69, 193), goal=(210, 245))
+2026-01-12 19:17:55 - MAPF - INFO -   Agent5(start=(249, 118), goal=(30, 233))
+2026-01-12 19:17:55 - MAPF - INFO -   Agent6(start=(172, 67), goal=(5, 96))
+2026-01-12 19:17:55 - MAPF - INFO -   Agent7(start=(186, 11), goal=(60, 53))
+2026-01-12 19:17:55 - MAPF - INFO - Starting CBS algorithm...
+2026-01-12 19:20:01 - MAPF - INFO - CBS completed in 125.89 seconds
+2026-01-12 19:20:01 - MAPF - WARNING - No path found for agent 0
+2026-01-12 19:20:01 - MAPF - WARNING - No path found for agent 2
+2026-01-12 19:20:01 - MAPF - WARNING - No path found for agent 5
+2026-01-12 19:20:01 - MAPF - WARNING - No path found for agent 7
+2026-01-12 19:20:01 - MAPF - INFO - 
+=== Performance Metrics ===
+2026-01-12 19:20:01 - MAPF - INFO - Makespan: 238
+2026-01-12 19:20:01 - MAPF - INFO - Sum of Costs: 844
+2026-01-12 19:20:01 - MAPF - INFO - Average Cost: 211.00
+2026-01-12 19:20:01 - MAPF - INFO - Success Rate: 50.00%
+2026-01-12 19:20:01 - MAPF - INFO - No collisions found!
+2026-01-12 19:20:01 - MAPF - INFO - Visualizing results...
+2026-01-12 19:20:03 - MAPF - INFO - Creating animation...
+2026-01-12 19:20:06 - MAPF - INFO - Displaying animation...
+2026-01-12 19:21:21 - MAPF - INFO - Results saved to results_20260112_192121.txt
+2026-01-12 19:21:21 - MAPF - INFO - Program completed successfully!

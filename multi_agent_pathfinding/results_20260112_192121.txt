@@ -1,0 +1,67 @@
+=== MAPF Results ===
+Map: Berlin_1_256.map
+Number of Agents: 8
+Computation Time: 125.89s
+Makespan: 238
+Sum of Costs: 844
+Average Cost: 211.00
+Success Rate: 50.00%
+Collisions: 0
+
+=== Agent Details ===
+Agent 0:
+  Start: (150, 72)
+  Goal: (19, 250)
+  Path Length: 0
+  Cost: 0
+
+Agent 1:
+  Start: (16, 245)
+  Goal: (19, 82)
+  Path Length: 239
+  Cost: 238
+  Path Preview: (16, 245) -> ... -> (19, 82)
+  Path Details: [(16, 245), (17, 245), (18, 245), (19, 245), (19, 244)] ... [(19, 84), (19, 83), (19, 82)]
+
+Agent 2:
+  Start: (252, 135)
+  Goal: (10, 63)
+  Path Length: 0
+  Cost: 0
+
+Agent 3:
+  Start: (154, 61)
+  Goal: (40, 140)
+  Path Length: 194
+  Cost: 193
+  Path Preview: (154, 61) -> ... -> (40, 140)
+  Path Details: [(154, 61), (154, 62), (154, 63), (154, 64), (154, 65)] ... [(40, 138), (40, 139), (40, 140)]
+
+Agent 4:
+  Start: (69, 193)
+  Goal: (210, 245)
+  Path Length: 208
+  Cost: 207
+  Path Preview: (69, 193) -> ... -> (210, 245)
+  Path Details: [(69, 193), (70, 193), (71, 193), (72, 193), (73, 193)] ... [(208, 245), (209, 245), (210, 245)]
+
+Agent 5:
+  Start: (249, 118)
+  Goal: (30, 233)
+  Path Length: 0
+  Cost: 0
+
+Agent 6:
+  Start: (172, 67)
+  Goal: (5, 96)
+  Path Length: 207
+  Cost: 206
+  Path Preview: (172, 67) -> ... -> (5, 96)
+  Path Details: [(172, 67), (171, 67), (170, 67), (169, 67), (168, 67)] ... [(3, 96), (4, 96), (5, 96)]
+
+Agent 7:
+  Start: (186, 11)
+  Goal: (60, 53)
+  Path Length: 0
+  Cost: 0
+
